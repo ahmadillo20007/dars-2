@@ -1,0 +1,30 @@
+.container{
+    width: 350px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 70px;
+
+  
+}
+.label{
+    width: 325px;
+}
+.alert{
+    width: 1050px;
+    float: right;
+}
+.wrapper{
+    position: absolute;
+    right: 300px;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+  left: 600px;
+  margin: 100px;
+
+}
+.link{
+    left:700px;
+    text-decoration: none;
+}
